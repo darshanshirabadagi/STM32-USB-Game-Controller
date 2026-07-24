@@ -1,0 +1,31 @@
+## Hardware Connections
+
+### Joysticks
+| Component | STM32 Pin |
+|-----------|-----------|
+| Left Joystick X | PA0 |
+| Left Joystick Y | PA1 |
+| Right Joystick X | PA2 |
+| Right Joystick Y | PA3 |
+
+### Buttons
+| Function | STM32 Pin |
+|----------|-----------|
+| Enter | PA4 |
+| Esc | PA5 |
+| Backspace | PA6 |
+| Left Shift | PA7 |
+| Left Ctrl | PB0 |
+| Windows Key | PB1 |
+| R | PB10 |
+| E | PB11 |
+| F | PB12 |
+| Tab | PB13 |
+| C | PB14 |
+| V | PB15 |
+| Arrow Up | PA8 |
+| Arrow Down | PA9 |
+| Arrow Left | PA10 |
+| Arrow Right | PA15 |
+| Left Mouse Click | PB3 |
+| Right Mouse Click | PB4 |
